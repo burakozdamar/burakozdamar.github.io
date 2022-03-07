@@ -1,0 +1,41 @@
+## Degree
+#- degree: Bachelor of Arts, Human Rights
+#  uni: Yale University
+#  year: 2004 &mdash; 2008
+#  awards:
+#    - award: Summa Cumme Laude graduate
+#  summary: If you had any meaningful roles at college, feel free to write about them here
+#
+#- degree: High School Diploma
+#  uni: Springfield High School
+#  year: 2004
+#  award: Most likely to succeed
+#  summary: You can choose to have either a single or multiple awards
+
+
+- degree: <u>PhD</u>, Physics and Chemistry of Materials 
+  uni: Université de Strasbourg, FR
+  year: 2013 &mdash; 2016
+  award: Institut de Physique et Chimie des Matériaux de Strasbourg, IPCMS UMR7504  
+  summary: First-principles simulations of the interaction of metal-organic molecules with a surface and as building blocks for nanodevices. (<a href="https://tel.archives-ouvertes.fr/tel-01578119/" target=_blank rel="noopener noreferrer">Link</a>)
+
+- degree: <u>MSc</u>, Atomic and Molecular Physics
+  uni: Middle East Technical University, TR
+  year: 2010 &mdash; 2013
+  award: GPA 3.43/4.00
+  summary: Investigation of the structural properties of low dimensional nanostructures&#58; Molecular dynamics simulations. (<a href="https://open.metu.edu.tr/handle/11511/22775" target=_blank rel="noopener noreferrer">Link</a>) 
+
+- degree: <u>BSc</u>, Physics
+  uni: Middle East Technical University, TR
+  year: 2005 &mdash; 2010
+  award: GPA 3.07/4.00 - Cum laude (2008/1 & 2009/2)
+  summary: Specialization in Optoelectronics
+
+      #<span style="color:green">2010 - 2013</span>  
+      # **MSc**, _Atomic and Molecular Physics_, Middle East Technical University (METU), Ankara/TURKEY, GPA: 3.43/4.00.   
+      #Supervisor: Şakir Erkoç
+      #* Investigation of the structural properties of low dimensional nanostructures: Molecular dynamics simulations
+      #
+      #<span style="color:green">2005 - 2010</span>  
+      # **BSc**, _Physics_, Middle East Technical University     (METU), Ankara/TURKEY, GPA: 3.07/4.00. Cum laude (2008/1 & 2009/2)  
+      #- Specialization in Optoelectronics

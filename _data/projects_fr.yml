@@ -1,0 +1,55 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- role: Articles dans des revues avec comité de lecture
+- description: 1. M. N. Çınar, G. Özbal Sargın, K. Sevim, <b>B. Özdamar</b>, G. Kurt, H. Sevinçli, Ballistic thermoelectric transport properties of two-dimensional group III-VI monolayers, <u>Phys. Rev. B</u>, 103, 165422 (2021)
+- description: 2. <b>B. Özdamar</b>, G. Özbal, M. N. Çınar, K. Sevim, G. Kurt, B. Kaya, H. Sevinçli, Structural, vibrational, and electronic properties of single-layer hexagonal crystals of group IV and V elements, <u>Phys. Rev. B</u>, 98, 045431 (2018). 
+- description: 3. <b>B. Özdamar</b>, H. Sevinçli, Inducing thermal rectification in a multi terminal junction system of harmonic chains&#58; A toy model and beyond. (in preperation)
+- description: 4. G. Cotin, C. Kiefer, F. Perton, M. Boero, <b>B. Özdamar</b>, A. Bouzid, G. Ori, C. Massobrio, D. Begin, B. Pichon, D. Mertz, and S. Begin-Colin, Evaluating the critical roles of precursor nature and water content when tailoring magnetic nanoparticles for specific applications, <u>ACS Appl. Nano Mater.</u>, 1, 4306 (2018).
+- description: 5. <b>B. Özdamar</b>, A. Bouzid, G.Ori, C. Massobrio, M. Boero, First-Principles study of dissociation processes for the synthesis of Fe and Co oxide nanoparticles, <u>J. Chem. Theory Comput.</u>, 14, 225 (2018). 
+- description: 6. <b>B. Özdamar</b>, C. Massobrio, M. Boero, Stability and destabilization processes in the formation of ferrocene-based metal-organic molecule-metal nano-junctions, <u>J. Phys. Chem. C</u>, 120, 13825 (2016).
+- description: 7. <b>B. Özdamar</b>, M. Boero, C. Massobrio, D. Felder-Flesch and S. Le Roux, Exohedral M-C60 and M<sub>2</sub>-C60 (M = Pt, Pd) systems as tunable-gap building blocks for nanoarchitecture and nanocatalysis, <u>J. Chem. Phys.</u>, 143, 114308 (2015)
+- description: 8. <b>B. Özdamar</b> and Ş. Erkoç , Structural properties of silicon nanorods under strain&#58; Molecular dynamics simulations, <u>J. Comput. Theor. Nanosci.</u>, 10, 1 (2013). 
+- description: 9. <b>B. Özdamar</b> and Ş. Erkoç, Structural and thermal properties of boron nitride nanoparticles&#58; Molecular dynamics simulations, <u>In. J. Nanotech. Appl.</u>, 1, 41 (2013).
+- description: 10. <b>B. Özdamar</b> and Ş. Erkoç, Molecular dynamics simulations of sawtooth-like graphene nanoribbons under strain, <u>Adv. Sci. Eng. Med.</u>, 4, 459 (2012).
+  
+- role: Chapitres d’ouvrages
+- description: 1. Boero, M., Bouzid, A., Roux, S., <b>Ozdamar, B.</b>, and Massobrio, C. (2015). First-Principles Molecular Dynamics Methods&#58; An Overview in Molecular Dynamics Simulations of Disordered Materials&#58; From Network Glasses to Phase-Change Memory Alloys. C. Massobrio, J. Du, M. Bernasconi, and S. P. Salmon (Eds.), (pp. 33-55). Springer International Publishing.
+
+- role: Présentations orales
+- description: 1. B. Özdamar, DFT-MD simulations on water/SAM-silica interfaces of various hydrophobicity, EPFL, LCBC, Août 2021
+- description: 2. B. Özdamar, Enhanced sampling techniques for transition metal atom deposition on organometallic molecules, IIT, Mai 2016
+- description: 3. B. Özdamar, How do water traces affect the morphology of transition metal-oxide nanoparticles?, IPCMS - UdS, Janv. 2015
+- description: 4. B. Özdamar, Transition metal atom deposition on ferrocene for nanoelectronics applications, IPCMS - UdS, Août 2014
+
+
+- role: Ateliers & tutoriels internationaux
+- description: 1. Label de Chimie Théorique, Réseau Français de Chimie Théorique, Paris, France, 20–31 Janvier 2020
+- description: 2. Recent Progress in the Physics of Thermal Transport, ICTP-ECAR, Izmir Institute of Technology, Izmir, Turkey, 17–21 Juillet 2017
+- description: 3. Hybrid Quantum Mechanics / Molecular Mechanics (QM/MM) Approaches to Biochemistry and Beyond, CECAM-HQ-EPFL, Lausanne, Switzerland, 9–13 Février 2015
+
+- role: Communications avec actes dans un congrès national ou international
+
+- description: 1. B. Özdamar, H. Sevinçli, "Thermal rectiﬁcation on multi terminal molecular junctions", Condensed Matter Physics VIII (YMF2019), 19 April 2019, IZTECH/Izmir-Turkey, Abstract Book, p. 22. (Poster)
+
+- description: 2. B. Özdamar, G. Özbal, M. N. Çınar, K. Sevim, G. Kurt, B. Kaya, H. Sevinçli, "Structural, vibrational, and electronic properties of single-layer hexagonal crystals of group IV and V elements", Condensed Matter Physics VIII (YMF2019), 19 April 2019, IZTECH/Izmir-Turkey, Abstract Book, p. 21. (Poster)
+
+- description: 3. M. N. Çınar, G. Özbal, G. Kurt, M. Gençoğlu, K. Sevim, B. Özdamar, R. T. Senger, H. Sevinçli, "A computational database for the electronic, thermal and thermoelectric properties of group III-VI monolayers", Japanese-Mediterranean Workshop on Applied Electromagnetic Engineering for Magnetic, Superconducting, Multifunctional and Nanomaterials (JAPMED’10), 4-8 July 2017, IZTECH/Izmir-Turkey, Abstract Book, p. 77. (Q4-74) (Poster)
+
+- description: 4.  B. Özdamar, Ş. Erkoç, "Structural, electronic and vibrational properties of cubane structures X<sub>8</sub>H<sub>8</sub> (X=C,Si,Ge)", Turkish Physical Society 29th International Physics Congress (TFD-29), 5-8 September 2012, Bodrum-Turkey, Abstract Book, p. 426. (01-PP73) (Poster)
+
+- description: 5. B. Özdamar, Ş. Erkoç, "Structural and thermal properties of BN nanoparticles&#58; Molecular dynamics simulations", NanoTR8, 25-28 June 2012, Hacettepe University, Ankara-Turkey. Abstract Book, PP-014. (Poster)
+
+- description: 6. B. Özdamar, Ş. Erkoç, "Molecular-dynamics simulations of sawtooth-like graphene nanoribbons under strain", Turkish Physical Society 28th International Physics Congress (TFD-28), 6-9 September 2011, Bodrum-Turkey, Abstract Book, p. 513. (Poster)
+
+- description: 7. B. Özdamar, Ş. Erkoç, "Structural properties of Si nanorods under strain&#58; Molecular dynamics simulations", NanoTR7, 27 June - 1 July 2011, Sabanci University, Istanbul-Turkey. Abstract Book, P2.B.7. (Poster)
+
+
+# Springfield Community Outreach Group
+#- project: Springfield Community Outreach Group
+#  role: Co-Founder & Organizer
+#  duration: 2007 &mdash; Present
+#  # url: "#"
+#  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+#
