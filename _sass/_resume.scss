@@ -2,7 +2,27 @@
 // ---------------------------------------/
 
 // util
+.select-language{
+   font-family: sans-serif;
 
+  ul{
+  list-style-type: none;
+  flex-direction: column;
+  }
+  a {
+  #background-color: #f44336;
+  display:inline-block;
+  color: black;
+  padding: 2px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  float:right;
+}
+  #background-color: yellow;
+  #list-style-type: none;
+  font: Arial;
+}
 .section-header {
   @include section_border;
   margin-bottom: 1.5rem;

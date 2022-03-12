@@ -4,7 +4,12 @@
   {% include head.html %}
 
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
-
+    <div class="select-language">
+      <ul>
+        <li><a href="./index_fr.html">Français</a></li>
+        <li><a href="./index.html">English</a></li>
+      </ul>
+    </div>
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="telephone" content="{{ site.resume_contact_telephone }}"/>
       <meta itemprop="address" content="{{ site.resume_contact_address }}"/>
