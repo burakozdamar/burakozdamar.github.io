@@ -55,7 +55,7 @@ resume_social_links:
   #resume_instagram_url:         "insert your Instagram URL here"
   resume_email:                 "mailto:burak@ozdamar.fr"
   resume_medium_url:            "https://scholar.google.com/citations?user=BMkPc5AAAAAJ&hl=en"
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
