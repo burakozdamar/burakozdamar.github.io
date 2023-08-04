@@ -21,7 +21,7 @@ resume_contact_email:           "burak@ozdamar.fr"
 resume_contact_telephone:       "06 41 92 40 92"
 resume_contact_address:         "Évry, 91000, FR"
 
-resume_header_contact_info:     "Évry, 91000, FR • +33641924092 • burak@ozdamar.fr"
+resume_header_contact_info:     "Évry, 91000, FR • +33641924092 • burak [at] ozdamar.fr"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>8 years of experience in molecular modeling and computational simulations focusing on ab-initio molecular dynamics.</p>"
